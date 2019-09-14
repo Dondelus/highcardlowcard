@@ -5,7 +5,6 @@ As simple as time, try your best to guess whether the next card will be higher o
 ### Now in a fun and interactive Docker container!
 
 ## Setup Process
----
 
 ### Build from source:
 1. Clone this repository
